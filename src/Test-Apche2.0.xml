@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="true" licenseId="Test-Apche2.0"
+   name="Test-Apche2.0" listVersionAdded="">
+      <crossRefs>
+         <crossRef>https://www.apache.org/licenses/LICENSE-2.0</crossRef>
+      </crossRefs>
+      <standardLicenseHeader>
+      </standardLicenseHeader>
+      <notes>
+         Approve
+      </notes>
+      <text>
+         <p>
+            Test New license
+         </p>
+      </text>
+   </license>
+</SPDXLicenseCollection>
