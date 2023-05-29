@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <exception>
+   <crossRefs>
+      <crossRef>https://www.apache.org/licenses/LICENSE-2.0</crossRef>
+   </crossRefs>
+   <standardLicenseHeader>
+   </standardLicenseHeader>
+   <notes>
+   </notes>
+   <text>
+      <p>
+         This is demo
+      </p>
+   </text>
+   </exception>
+</SPDXLicenseCollection>
